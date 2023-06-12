@@ -3,6 +3,9 @@
 
 # Empower-chain
 
+<h3><a href=""> Node Validator Guide</a>  | <a href="https://github.com/Cumulo-pro/Empower-chain/wiki/Empower-Validator-Services:-Public-Endpoints"> Public Endpoints</a> 
+</h3>
+
 <ul>
 <li>Chain-Id: circulus-1</li>
 <li>Git node: https://github.com/EmpowerPlastic/empowerchain</li>
