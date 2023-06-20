@@ -1,6 +1,4 @@
 
-![Empower Front Chain Dashboard](assets/2853158/67a4f954-3006-494a-a7fa-8101634ecceb)
-<img width="747" alt="image" src="https://github.com/Cumulo-pro/Empower-chain/assets/2853158/07677a22-c216-4a31-ae4e-008efbe9ea33">
 
 ## Introduction
 
@@ -73,3 +71,5 @@ In addition to displaying the data we can create different ways to interact with
 For a more complete demonstration please visit our example
 
 [https://empower.frontchain.cumulo.pro/](https://empower.frontchain.cumulo.pro/)
+
+![Empower Front Chain Dashboard](img/dashboard.jpg)
