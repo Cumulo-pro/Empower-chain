@@ -3,7 +3,7 @@
 
 # Empower-chain
 
-<h3><a href="https://github.com/Cumulo-pro/Empower-chain/wiki/Validator-guide"> Node Validator Guide</a>  | <a href="https://github.com/Cumulo-pro/Empower-chain/wiki/Empower-Validator-Services:-Public-Endpoints"> Public Endpoints</a> | <a href="https://github.com/Cumulo-pro/Empower-chain/wiki/Proof-of-existence-user-guide"> Proof of existence user guide</a> | <a href="https://medium.com/cumulo-pro/empower-community-of-validators-resources-f0fdbc5a5609">Community of Validators Resources</a> | <a href="https://github.com/Cumulo-pro/Empower-chain/wiki/EmpowerMarket-User%C2%A0Guide">EmpowerMarket User Guide</a>
+<h3><a href="https://github.com/Cumulo-pro/Empower-chain/wiki/Validator-guide"> Node Validator Guide</a>  | <a href="https://github.com/Cumulo-pro/Empower-chain/wiki/Empower-Validator-Services:-Public-Endpoints"> Testnet Public Endpoints</a> | <a href="https://github.com/Cumulo-pro/Empower-chain/wiki/Proof-of-existence-user-guide"> Proof of existence user guide</a> | <a href="https://medium.com/cumulo-pro/empower-community-of-validators-resources-f0fdbc5a5609">Community of Validators Resources</a> | <a href="https://github.com/Cumulo-pro/Empower-chain/wiki/EmpowerMarket-User%C2%A0Guide">EmpowerMarket User Guide</a> | <a href="https://github.com/Cumulo-pro/Empower-chain/wiki/Empower-Mainnet-Validator-Services:-Public-Endpoints">Mainnet Public Endpoints</a>
 </h3>
 
 <ul>
